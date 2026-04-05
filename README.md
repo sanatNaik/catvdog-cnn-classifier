@@ -136,7 +136,7 @@ python app.py
 
 ---
 
-## 📷 UI Preview
+## UI Preview
 
 * Upload image
 * Click submit
@@ -144,7 +144,7 @@ python app.py
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Add probability/confidence score
 * Improve model accuracy
@@ -153,8 +153,9 @@ python app.py
 * Support more animal classes
 
 ---
+Live Demo: https://catvsdog-backend-4.onrender.com/
 
-## 👨‍💻 Author
+## Author
 
 **Sanat Naik**
 
